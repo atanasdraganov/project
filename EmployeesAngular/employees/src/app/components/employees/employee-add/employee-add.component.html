@@ -1,0 +1,47 @@
+<div class="container my-5">
+    <h2 class = "mb-3">Add New Employee</h2>
+
+    <form #form="ngForm" (ngSubmit)="addEmployee()">
+        <div class="mb-3">
+            <label for="id" class="form-label">Id</label>
+            <input type="number" class="form-control" id="id" 
+            name="id" [(ngModel)] = "addEmployeeReq.id">
+          </div>
+          <div class="mb-3">
+            <label for="name" class="form-label">EmployeeName</label>
+            <input type="text" class="form-control" id="name"
+            name="name" [(ngModel)] = "addEmployeeReq.employeeName">
+          </div>
+          <div class="mb-3">
+            <label for="age" class="form-label">Age</label>
+            <input type="number" class="form-control" id="age"
+            name="age" [(ngModel)] = "addEmployeeReq.age">
+          </div>
+          <div class="mb-3">
+            <label for="addressId" class="form-label">AddressId</label>
+            <input type="number" class="form-control" id="addressId"
+            name="addressId" [(ngModel)] = "addEmployeeReq.addressId">
+          </div>
+          <div class="mb-3">
+            <label for="positionId" class="form-label">PositionId</label>
+            <input type="number" class="form-control" id="positionId"
+            name="positionId" [(ngModel)] = "addEmployeeReq.positionId">
+          </div>
+          <div class="mb-3">
+            <label for="dateOfSigning" class="form-label">DateOfSigning</label>
+            <input type="date" class="form-control" id="dateOfSigning"
+            name="dateOfSigning" [(ngModel)] = "addEmployeeReq.dateOfSigning">
+          </div>
+          <div class="mb-3">
+            <label for="dateOfLeaving" class="form-label">DateOfLeaving</label>
+            <input type="date" class="form-control" id="dateOfLeaving"
+            name="dateOfLeaving" [(ngModel)] = "addEmployeeReq.dateOfLeaving">
+          </div>
+          <div class="mb-3">
+            <label for="isActive" class="form-label">IsActive</label>
+            <input type="boolean" class="form-control" id="isActive"
+            name="isActive" [(ngModel)] = "addEmployeeReq.isActive">
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

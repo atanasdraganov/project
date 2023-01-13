@@ -1,0 +1,6 @@
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeDatabase\bin\Debug\EmployeeDatabase.dacpac
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeDatabase\bin\Debug\EmployeeDatabase.dll
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeDatabase\obj\Debug\EmployeeDatabase.sqlproj.AssemblyReference.cache
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeDatabase\obj\Debug\EmployeeDatabase.dll
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb

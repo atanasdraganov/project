@@ -1,0 +1,5 @@
+﻿CREATE TABLE Position(
+	Id INT NOT NULL, 
+	PositionName VARCHAR(255),
+	PRIMARY KEY(Id)
+);

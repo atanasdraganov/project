@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE GetEmployeeById
+@Id int
+AS
+BEGIN
+SELECT * FROM Employees WHERE @Id=id;
+END

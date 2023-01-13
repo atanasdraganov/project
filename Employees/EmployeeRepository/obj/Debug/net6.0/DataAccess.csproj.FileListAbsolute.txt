@@ -1,0 +1,12 @@
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\bin\Debug\net6.0\DataAccess.dll
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.dll
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\atanas\source\repos\atanas-draganov\Employees\EmployeeRepository\obj\Debug\net6.0\ref\DataAccess.dll
